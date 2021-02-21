@@ -1,0 +1,56 @@
+@charset "utf-8";
+*{
+    margin:0px;
+    padding:0px;
+}
+html{
+    background-color:green;
+}
+#container{
+    border:black 5px solid;
+    width:970px;
+    margin:0px auto;
+}
+header{
+    border-color:red;
+    border-size:5px;
+    border-style:solid;
+    background-color:gray;
+    padding:5px 5px;
+    margin:0px 0px 0px 0px;
+    width:955px;
+}
+.socksheader{
+    display:block;
+    margin:0px auto;
+}
+section{
+    border:blue 5px solid;
+    background-color:yellow;
+    color:green;
+    width:640px;
+    height:650px;
+    float:left;
+}
+.sockssec{
+    height=100px;
+    width=100px;
+    float:left;
+    margin:10px;
+}
+aside{
+    border:pink 5px solid;
+    background-color:red;
+    color:white;
+    width:310px;
+    height:650px;
+    float:left;
+}
+footer{
+    border:red 5px solid;
+    background-color:gray;
+    padding:5px 5px;
+    margin:0px 0px 0px 0px;
+    width:950px;
+    clear:both;
+}

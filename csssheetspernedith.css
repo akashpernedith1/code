@@ -1,0 +1,47 @@
+@charset "utf-8";
+@font-face {
+	font-family:permark;
+	src: url(PermanentMarker-Regular.ttf);
+}
+body{
+	background-color:pink;
+}
+h1 {
+		color: black;
+		font-family:permark;
+}
+p {
+        color:blue;
+		font-size:16px;
+		font-family:arial;
+		background-color:red;
+}
+a:link {
+	color:white;
+	text-decoration:none;
+}
+a:visited {
+	color:#00FF00;
+	text-decoration:none;
+}
+a:hover {
+	color:black;
+}
+table, td, th{
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:3px;
+}
+.para2 {
+        color:yellow;
+		font-size:16px;
+		font-family:Arial;
+		background-color:red;
+}
+.para3 {
+        color:green;
+		font-size:16px;
+		font-family:Arial;
+		background-color:red;
+}
+/*This is a comment*/

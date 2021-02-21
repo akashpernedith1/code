@@ -1,0 +1,88 @@
+@charset "utf-8";
+body {
+	background-color: black;
+	color:white;
+}
+h1 {
+	color:red;
+	font-family:Arial;
+	background-color:black;
+}
+.para1 {
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.headertekst{
+	color:red;
+	font-family:Arial;
+	background-color:black;
+	text-align:center;
+}
+.para2{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;	
+}
+.Orderlist{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.bro{
+	color:red;
+	font-family:Arial;
+	background-color:black;
+	text-align:center;
+}
+.para3{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.bruh{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.centerline{
+	color:red;
+	font-family:Arial;
+	background-color:black;
+	text-align:center;
+}
+.para4{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.Oriental{
+	color: white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.kevin{
+	color:red;
+	font-family:Arial;
+	background-color:black;
+	text-align:center;
+}
+.para5{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
+.asoif{
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+	background-color:black;
+}
